@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Shopping</string>
+    <string name="android_pay">Boutique en ligne</string>
+    <string name="add_to_cart">Ajouter au panier</string>
+    <string name="description_example">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</string>
+    <string name="product_size">Taille: 40</string>
+    <string name="product_color">Couleur: noir</string>
+    <string name="product_price">Prix: 80 euro</string>
+    <string name="action_cart">Panier</string>
+    <string name="quantity">1</string>
+    <string name="product_name">Sleek black top</string>
+    <string name="price">100 e</string>
+    <string name="remove_from_cart">Supprimer</string>
+    <string name="continue_shopping">Continuer shopping</string>
+    <string name="checkout">Payer</string>
+    <string name="sub_total">Total:</string>
+    <string name="server_error">Failed to payment information to server</string>
+    <string name="successful_payment">Payment successfully uploaded</string>
+    <string name="pay_with_paypal">Payer avec PayPal</string>
+</resources>
